@@ -1,5 +1,4 @@
 - 👋 Hi, I’m maxata
-- 👀 I’m interested in 
 - 🌱 I’m currently improving python language
 - 💞️ I’m looking to collaborate image processing, computational biology, 3D drawings with SolidWorks, Matlab, creating new algorithms, digital signal processing
 - 📫 How to reach me maxata19@hotmail.com
